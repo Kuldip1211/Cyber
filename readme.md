@@ -2,7 +2,7 @@
 
 # 🛒 Cyber — Electronics E-Commerce Store
 
-![Cyber Banner](https://github.com/Kuldip1211/Cyber/blob/main/image.png)
+![Cyber Banner](https://github.com/Kuldip1211/Cyber/blob/main/Thumbnail.jpg)
 
 **A modern, feature-rich electronics e-commerce web application**  
 Browse the latest iPhones, MacBooks, PlayStation, Samsung Galaxy, Apple Watch, and more.
